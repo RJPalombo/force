@@ -1,4 +1,4 @@
-package main
+package force
 
 func (apps ForceConnectedApps) Len() int {
 	return len(apps)

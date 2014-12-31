@@ -1,4 +1,4 @@
-package main
+package force
 
 import (
 	"archive/zip"

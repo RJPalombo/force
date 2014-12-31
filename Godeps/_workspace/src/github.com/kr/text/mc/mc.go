@@ -7,7 +7,7 @@
 // the number of characters in a terminal line; otherwise the
 // default N is 80. Under option - each input line ending in
 // a colon ':' is printed separately.
-package main
+package force
 
 import (
 	"github.com/kr/pty"

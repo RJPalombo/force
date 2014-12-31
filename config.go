@@ -1,4 +1,4 @@
-package main
+package force
 
 import (
 	"github.com/ddollar/config"
